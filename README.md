@@ -1,4 +1,4 @@
-# UwUCord
+# UwUcord
 
 Want A Cute Debloated Edit Of Material Discord ✨
 
